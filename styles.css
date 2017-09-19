@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(228, 45, 64);
+    color: rgb(255, 255, 255);
+}
+
+header h1{
+    font-size: 70px;
+    font-weight:normal;
+}
+#pc_pic {
+    width:35%; 
+    height: auto;
+}
+.a_content p{
+    font-size: 30px;
+    font-weight:lighter;
+}
+.a_content h2{
+    font-size: 30px;
+    font-weight:600;
+}
