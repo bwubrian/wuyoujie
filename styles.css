@@ -21,3 +21,17 @@ header h1{
     font-size: 30px;
     font-weight:600;
 }
+#lol{
+    font-size: 10px;
+    font-weight:300;
+    padding-top: 50px;
+    padding-bottom: 10px;
+    
+}
+#lol a{
+    color: white;
+    text-decoration: none;
+}
+#lol a:hover {
+    color: black;
+}
